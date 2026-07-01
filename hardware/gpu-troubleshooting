@@ -1,0 +1,14 @@
+# GPU Troubleshooting Notes
+
+## Issue: Black screen after GRUB
+- Fix: Installed correct drivers for the GPU
+- Notes: Some distros require manual driver installation
+
+## Issue: Screen tearing
+- Fix: Enabled compositor settings and adjusted refresh rate
+
+## Issue: GPU not detected
+- Fix: Reseated GPU, checked power cables, updated BIOS
+- Notes first GPU slot bad connection, moved to second slot, one remaining.
+
+GPU issues taught me how Linux handles drivers differently across distros. How bad connections with GPU can cause uncommand problems. 
