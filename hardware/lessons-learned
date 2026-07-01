@@ -1,0 +1,7 @@
+# Lessons Learned
+
+- Hardware and software problems often overlap.
+- BIOS defaults are not always correct for custom builds.
+- Linux distros behave differently with the same hardware.
+- Logs are your best friend when diagnosing boot issues.
+- Patience and systematic testing solve most problems.
